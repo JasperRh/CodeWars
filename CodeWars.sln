@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Which are in", "Which are i
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letter triangles", "Letter triangles\Letter triangles.csproj", "{C8E8561B-7BD2-4FF8-BD13-A7B1A665CC04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Josephus Permutation", "Josephus Permutation\Josephus Permutation.csproj", "{788A41B8-33AF-4D54-98F1-426A3D43DEFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{C8E8561B-7BD2-4FF8-BD13-A7B1A665CC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8E8561B-7BD2-4FF8-BD13-A7B1A665CC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8E8561B-7BD2-4FF8-BD13-A7B1A665CC04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788A41B8-33AF-4D54-98F1-426A3D43DEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788A41B8-33AF-4D54-98F1-426A3D43DEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788A41B8-33AF-4D54-98F1-426A3D43DEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788A41B8-33AF-4D54-98F1-426A3D43DEFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
