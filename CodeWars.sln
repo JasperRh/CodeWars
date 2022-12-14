@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letter triangles", "Letter 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Josephus Permutation", "Josephus Permutation\Josephus Permutation.csproj", "{788A41B8-33AF-4D54-98F1-426A3D43DEFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Parentheses", "Valid Parentheses\Valid Parentheses.csproj", "{FBACD48E-0DDE-4875-8E67-84049246A618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Does my number look big in this", "Does my number look big in this\Does my number look big in this.csproj", "{F0272CA5-28B4-44C5-9BA9-D835A33B31A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{788A41B8-33AF-4D54-98F1-426A3D43DEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{788A41B8-33AF-4D54-98F1-426A3D43DEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{788A41B8-33AF-4D54-98F1-426A3D43DEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBACD48E-0DDE-4875-8E67-84049246A618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBACD48E-0DDE-4875-8E67-84049246A618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBACD48E-0DDE-4875-8E67-84049246A618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBACD48E-0DDE-4875-8E67-84049246A618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0272CA5-28B4-44C5-9BA9-D835A33B31A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0272CA5-28B4-44C5-9BA9-D835A33B31A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0272CA5-28B4-44C5-9BA9-D835A33B31A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0272CA5-28B4-44C5-9BA9-D835A33B31A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
